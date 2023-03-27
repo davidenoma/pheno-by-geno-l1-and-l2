@@ -9,3 +9,6 @@ used for genome-wide association mapping. The JawaMix5 tool embeds the emmax
 function and is well-suited to the format of the input genotype file. The tool will enable the
 narrowing down of total SNPs (214,553) to identify the candidate SNPs for evaluating
 models.
+
+###Study pipeline
+https://github.com/davidenoma/pheno-by-geno-l1-and-l2/blob/main/PIPELINE.png
