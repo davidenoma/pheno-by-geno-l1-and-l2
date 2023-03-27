@@ -11,4 +11,6 @@ narrowing down of total SNPs (214,553) to identify the candidate SNPs for evalua
 models.
 
 ### Study pipeline
+![Study pipeline](https://github.com/davidenoma/pheno-by-geno-l1-and-l2/blob/main/PIPELINE.png )
+
 
